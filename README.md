@@ -127,11 +127,6 @@ Developed the **Business Insights 360 Dashboard** in Power BI featuring:
 
 ---
 
-## 🙌 Acknowledgment
-
-This project was developed as part of the **Codebasics Data Analytics Bootcamp 5.0**.
-
----
 
 ## 🤝 Connect With Me
 
