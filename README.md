@@ -11,26 +11,56 @@
   <img src="https://img.shields.io/badge/STATUS-Completed-16A34A?style=for-the-badge" />
 </p>
 
+---
 
-# Business Insights 360 – AtliQ Hardwares (Power BI Project)
+# 📊 Business Insights 360 Dashboard | AtliQ Hardwares
 
+An end-to-end Power BI business intelligence solution designed to deliver a 360° view of organizational performance across Finance, Sales, Marketing, Supply Chain, and Executive operations.
 
+---
 
 ## 📌 Problem Statement
-AtliQ Hardwares, a global consumer electronics company, was experiencing rapid growth but still relied heavily on Excel for analytics. This led to fragmented reports, delayed insights, and even a significant business loss in the Latin American market. Leadership needed a centralized BI solution to unify Finance, Sales, Marketing, and Supply Chain data under one platform.
 
-## 🎯 The Mission
-To design a CEO-ready, multi-dashboard Power BI solution that delivers real-time KPIs, trend analysis, and performance breakdowns — enabling faster, data-driven decisions across all departments.
+AtliQ Hardwares, a rapidly growing global consumer electronics company, relied heavily on Excel-based reporting for analytics and decision-making. This created fragmented reporting processes, delayed insights, and limited visibility across departments — ultimately contributing to significant business losses in the Latin American market.
 
-## ⚡ Solution
-I developed the **Business Insights 360 Dashboard** in Power BI, providing:
-- 💰 **Finance View** – P&L by product, country, and customer  
-- 📈 **Sales View** – Profitability and growth metrics by customer & product  
-- 🎯 **Marketing View** – Performance matrix by product segment  
-- 🚚 **Supply Chain View** – Forecast accuracy, net error trends, and risk profiling  
-- 🧠 **Executive View** – Consolidated leadership dashboard with KPIs and market share  
-- ℹ️ **Info View** – Key references and data refresh guidelines  
-- 🆘 **Support View** – Guidance, feedback, and contingency plan  
+Leadership required a centralized business intelligence solution capable of integrating cross-functional data into a single interactive reporting platform.
+
+---
+
+## 🎯 Project Objective
+
+Design and develop a CEO-ready Power BI solution that:
+- Centralizes business reporting across departments
+- Delivers real-time KPI monitoring
+- Enables performance and trend analysis
+- Supports data-driven executive decision-making
+- Improves visibility into operational and financial performance
+
+---
+
+## ⚡ Solution Overview
+
+Developed the **Business Insights 360 Dashboard** in Power BI featuring:
+
+- **Finance View** – P&L analysis by product, customer, and region  
+- **Sales View** – Revenue growth, profitability, and customer performance metrics  
+- **Marketing View** – Product and segment-level performance analysis  
+- **Supply Chain View** – Forecast accuracy, net error trends, and risk insights  
+- **Executive View** – Consolidated leadership dashboard with high-level KPIs and market share metrics  
+- **Info View** – Data refresh instructions and dashboard references  
+- **Support View** – User guidance, support workflow, and contingency planning  
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Power BI** – Interactive dashboard development  
+- **DAX** – KPI calculations and analytical measures  
+- **SQL** – Data extraction and transformation  
+- **Power Query** – Data cleaning and ETL workflows  
+- **Excel** – Source data preparation and validation  
+- **Data Modeling** – Relationship management and schema design  
+- **Data Storytelling & Visualization** – Executive-focused reporting design  
 
 ---
 
@@ -62,35 +92,51 @@ I developed the **Business Insights 360 Dashboard** in Power BI, providing:
 
 ---
 
-## 💡 Key Insights Covered
-- **Finance View:** P&L analysis revealed that while overall revenue grew steadily, certain regions like **Latin America underperformed**, leading to net profit margin erosion.  
-- **Sales View:** Top 20% of customers contributed to more than 60% of net sales, highlighting **high customer concentration risk** and the need for diversification.  
-- **Marketing View:** Product segments in the **premium category showed higher ROI** on marketing spend, while entry-level segments underperformed despite high spend.  
-- **Supply Chain View:** Forecast accuracy was below 70% in key markets, with **consistent net error trends** causing inventory imbalances and missed opportunities.  
-- **Executive View:** A consolidated KPI dashboard revealed that despite regional setbacks, **global market share increased by ~2%**, positioning AtliQ as a stronger competitor in growth markets.  
+## 💡 Key Business Insights
+
+### Finance Insights
+- Revenue demonstrated consistent growth trends; however, underperformance in the Latin American market negatively impacted net profit margins.
+
+### Sales Insights
+- The top 20% of customers contributed over 60% of total revenue, highlighting customer concentration risk and the importance of diversification strategies.
+
+### Marketing Insights
+- Premium product segments delivered significantly higher ROI on marketing investments compared to entry-level segments.
+
+### Supply Chain Insights
+- Forecast accuracy remained below 70% in key markets, leading to inventory imbalances and operational inefficiencies.
+
+### Executive Insights
+- Despite regional challenges, overall global market share increased by approximately 2%, strengthening AtliQ’s competitive position in growth markets.
 
 ---
 
-## 🛠 Tools & Skills
-- Power BI (Data Modeling, DAX, Interactive Dashboards)  
-- SQL & Excel for data preparation  
-- Data Storytelling & Visualization Best Practices  
+## 🚀 Business Impact
+
+- Improved visibility into enterprise-wide KPIs  
+- Reduced reliance on fragmented Excel reporting  
+- Enabled faster executive reporting and analysis  
+- Supported strategic, data-driven decision-making  
+- Delivered centralized cross-functional business insights  
+
+---
 
 ## 🔗 Live Dashboard
-[👉 Explore the Interactive Dashboard](https://app.powerbi.com/links/IZI14XrE7L?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=319b9e06-0cbf-4fc5-a9fa-e906530eede6)
+
+👉 [Explore the Interactive Dashboard](https://app.powerbi.com/links/IZI14XrE7L?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=319b9e06-0cbf-4fc5-a9fa-e906530eede6)
 
 ---
 
-## 🙌 Credit
-This project was **built as part of the Codebasics Data Analytics Bootcamp 5.0**.  
+## 🙌 Acknowledgment
+
+This project was developed as part of the **Codebasics Data Analytics Bootcamp 5.0**.
 
 ---
 
-## 🤝 Let’s Connect
-I’d love to hear your feedback, discuss analytics, or connect with fellow professionals:  
+## 🤝 Connect With Me
 
 - 🌐 LinkedIn: [Asim Ahmed](https://www.linkedin.com/in/asimahmedio)  
 - 💻 GitHub: [asimahmedhub](https://github.com/asimahmedhub)  
-- ✉️ Email: **asim.atia@gmail.com**  
+- ✉️ Email: **asim.atia@gmail.com**
 
 ---
