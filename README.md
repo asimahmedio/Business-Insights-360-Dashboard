@@ -1,9 +1,19 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/TOOL-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DATABASE-SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-Calculations-6B21A8?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TRANSFORM-Power%20Query-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MODEL-Data%20Modeling-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DOMAIN-Business%20Intelligence-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-Completed-16A34A?style=for-the-badge" />
+</p>
+
+
 # Business Insights 360 – AtliQ Hardwares (Power BI Project)
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0F172A?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge)
 
 
 ## 📌 Problem Statement
