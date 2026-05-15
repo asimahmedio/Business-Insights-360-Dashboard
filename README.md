@@ -1,5 +1,11 @@
 # Business Insights 360 – AtliQ Hardwares (Power BI Project)
 
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0F172A?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge)
+
+
 ## 📌 Problem Statement
 AtliQ Hardwares, a global consumer electronics company, was experiencing rapid growth but still relied heavily on Excel for analytics. This led to fragmented reports, delayed insights, and even a significant business loss in the Latin American market. Leadership needed a centralized BI solution to unify Finance, Sales, Marketing, and Supply Chain data under one platform.
 
